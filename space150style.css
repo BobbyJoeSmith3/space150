@@ -1,0 +1,11 @@
+body {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+	font-family: 'Arimo', sans-serif;
+	font-size: 1.25em;
+	margin-top: 70px;
+}
