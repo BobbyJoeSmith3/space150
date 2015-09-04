@@ -1,0 +1,39 @@
+//------------------------------------//
+//  $FONTS
+//------------------------------------//
+
+// include license if available
+
+// Example font include:
+//
+// @font-face {
+//   font-family: 'Fontatica4F';
+//   src: url('../fonts/2BF776_1_0.eot');
+//   src: url('../fonts/2BF776_1_0.eot?#iefix') format('embedded-opentype'),
+//        url('../fonts/2BF776_1_0.woff') format('woff'),
+//        url('../fonts/2BF776_1_0.ttf') format('truetype'),
+//        url('../fonts/2BF776_1_0.svg#fontatica') format('svg');
+//   font-weight: normal;
+//   font-style: normal;
+// }
+
+
+@font-face {
+  font-family: 'Gotham-Rnd-Light';
+  src: url('../fonts/GothamRnd-Light.otf');
+}
+
+@font-face {
+  font-family: 'Ailerons';
+  src: url('../fonts/Ailerons.ttf');
+}
+
+@font-face {
+  font-family: 'League-Gothic-Regular';
+  src: url('../fonts/LeagueGothic-Regular.otf');
+}
+
+@font-face {
+  font-family: 'GothamRnd-Book';
+  src: url('../fonts/GothamRnd-Book.otf');
+}
